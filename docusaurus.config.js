@@ -69,7 +69,7 @@ const config = {
         title: 'SageRx',
         logo: {
           alt: 'SageRx Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
