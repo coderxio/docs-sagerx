@@ -78,11 +78,11 @@ The base URL is `https://dailymed.nlm.nih.gov/dailymed/services/` to which you c
 | [/NDCs](https://dailymed.nlm.nih.gov/dailymed/webservices-help/v2/NDCs_api.cfm) | Returns a list of all NDC codes. |
 | [/rxcuis](https://dailymed.nlm.nih.gov/dailymed/webservices-help/v2/rxcuis_api.cfm) | Returns a list of all product-level RxCUIs. |
 | [/spls](https://dailymed.nlm.nih.gov/dailymed/webservices-help/v2/spls_api.cfm) | Returns a list of all SPLs. |
-| [/spls/{SETID}](https://dailymed.nlm.nih.gov/dailymed/webservices-help/v2/spls_setid_api.cfm) | Returns an SPL document for specific set ID. |
-| [/spls/{SETID}/history](https://dailymed.nlm.nih.gov/dailymed/webservices-help/v2/spls_setid_history_api.cfm) | Returns version history for specific set ID. |
-| [/spls/{SETID}/media](https://dailymed.nlm.nih.gov/dailymed/webservices-help/v2/spls_setid_media_api.cfm) | Returns links to all media for specific set ID. |
-| [/spls/{SETID}/NDCs](https://dailymed.nlm.nih.gov/dailymed/webservices-help/v2/spls_setid_NDCs_api.cfm) | Returns all NDCs for specific set ID. |
-| [/spls/{SETID}/packaging](https://dailymed.nlm.nih.gov/dailymed/webservices-help/v2/spls_setid_packaging_api.cfm) | Returns all product packaging descriptions for specific set ID. |
+| [/spls/SET_ID](https://dailymed.nlm.nih.gov/dailymed/webservices-help/v2/spls_setid_api.cfm) | Returns an SPL document for specific set ID. |
+| [/spls/SET_ID/history](https://dailymed.nlm.nih.gov/dailymed/webservices-help/v2/spls_setid_history_api.cfm) | Returns version history for specific set ID. |
+| [/spls/SET_ID/media](https://dailymed.nlm.nih.gov/dailymed/webservices-help/v2/spls_setid_media_api.cfm) | Returns links to all media for specific set ID. |
+| [/spls/SET_ID/NDCs](https://dailymed.nlm.nih.gov/dailymed/webservices-help/v2/spls_setid_NDCs_api.cfm) | Returns all NDCs for specific set ID. |
+| [/spls/SET_ID/packaging](https://dailymed.nlm.nih.gov/dailymed/webservices-help/v2/spls_setid_packaging_api.cfm) | Returns all product packaging descriptions for specific set ID. |
 | [/uniis](https://dailymed.nlm.nih.gov/dailymed/webservices-help/v2/uniis_api.cfm) | Returns a list of all UNIIs. |
 
 <small>
