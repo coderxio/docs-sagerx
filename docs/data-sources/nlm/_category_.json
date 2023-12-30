@@ -1,0 +1,8 @@
+{
+  "label": "NLM",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "National Libraries of Medicine (NLM) data sources."
+  }
+}

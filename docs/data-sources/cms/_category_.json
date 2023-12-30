@@ -1,0 +1,8 @@
+{
+  "label": "CMS",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Centers for Medicaid and Medicare Services (CMS) data sources."
+  }
+}

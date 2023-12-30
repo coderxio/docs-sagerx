@@ -1,0 +1,8 @@
+{
+  "label": "Data Sources",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "A catalog of data sources available using SageRx."
+  }
+}

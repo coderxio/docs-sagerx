@@ -1,17 +1,24 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+joey:
+  name: Joey LeGrand
+  title: CodeRx Founder
+  url: https://github.com/jrlegrand
+  image_url: https://avatars.githubusercontent.com/u/3269178?v=4
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+kent:
+  name: Kent Bridgeman
+  title: CodeRx Admin
+  url: https://github.com/bridg109
+  image_url: https://avatars.githubusercontent.com/u/40433162?v=4
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+david:
+  name: David Berkowitz
+  title: CodeRx Contributor
+  url: https://omnicell.com
+  image_url: https://ca.slack-edge.com/TBN94UAF4-U01HB4C3LHW-a8e603a44b4f-512
+
+dalton:
+  name: Dalton Fabian
+  title: CodeRx Admin
+  url: https://google.com
+  image_url: https://ca.slack-edge.com/TBN94UAF4-U0107GTLQJZ-df6f980bb861-512
+  

@@ -1,0 +1,8 @@
+{
+  "label": "FDA",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Food and Drug Administration (FDA) data sources."
+  }
+}
